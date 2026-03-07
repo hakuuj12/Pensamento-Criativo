@@ -151,7 +151,8 @@ Scott Isaksen (apud PUCCIO, 1999), um dos maiores especialistas em criatividade 
     
 
 As quatro dimensões da criatividade, segundo Mel Rhodes (RICKARDS, 1999).
-![](C:\Users\dezen\AppData\Roaming\marktext\images\2026-03-07-16-26-29-image.png)
+<img width="587" height="576" alt="2026-03-07-16-26-29-image" src="https://github.com/user-attachments/assets/304cf3f3-71de-40d6-b662-b2043243389e" />
+
 
     
 
@@ -193,7 +194,8 @@ Algumas teorias que classificam os estilos criativos:
 
     
 
-![](C:\Users\dezen\AppData\Roaming\marktext\images\2026-03-07-16-36-37-image.png)
+<img width="786" height="237" alt="2026-03-07-16-36-37-image" src="https://github.com/user-attachments/assets/416b4929-1442-4535-adab-ef7c0fd91783" />
+
 
     
 
@@ -229,13 +231,15 @@ Os 3 Tipos de Raciocínio Lógico:
 
     
 
-![](C:\Users\dezen\AppData\Roaming\marktext\images\2026-03-07-16-51-12-image.png)
+<img width="783" height="536" alt="2026-03-07-16-51-12-image" src="https://github.com/user-attachments/assets/c6250358-a05f-44e0-b286-c471dd5a8e84" />
+
 
     
 
 A Técnica dos 6 Chapéus:
 
-![](C:\Users\dezen\AppData\Roaming\marktext\images\2026-03-07-17-04-20-image.png)
+<img width="783" height="671" alt="2026-03-07-17-04-20-image" src="https://github.com/user-attachments/assets/3186be93-895f-4553-979a-57d15c83f35f" />
+
 
     
 
@@ -272,5 +276,6 @@ A princípio, os resultados do TTCT eram avaliados segundo quatro componentes, o
 - Nível de inventividade: capacidade de criar elementos novos e, ao mesmo tempo, valiosos, úteis.
 
     
+
 
 
